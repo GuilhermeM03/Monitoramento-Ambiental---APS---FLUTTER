@@ -1,6 +1,6 @@
 # Monitoramento Ambiental (Mobile + API + Docker)
 
-Atende aos requisitos da APS de DSD: app **mobile (Flutter)**, **Web Service Intermediário (FastAPI)** e consumo de **Web Service API Destino** (OpenWeatherMap + OpenAQ). Também inclui **Docker** para o backend.
+Atende aos requisitos da APS de DSD: app **mobile (Flutter)**, **Web Service Intermediário (FastAPI)** e consumo de **Web Service API Destino** (OpenWeatherMap + IQAir). Também inclui **Docker** para o backend.
 
 ## Passo a passo rápido
 1. No Prompt de Comando navegue até o diretório onde está o docker-compose.yml `cd "C:\caminho\para\Monitoramento Ambiental - APS"`
